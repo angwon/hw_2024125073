@@ -1,5 +1,4 @@
-/docs/hw1_2024125073_안지원.pdf
-/docs/hw2_2024125073_안지원.pdf
+[시스템 정의서]file:///C:/Users/seraa/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/hw1_2024125073_%EC%95%88%EC%A7%80%EC%9B%90.pdf
 
 # 📍 세이프맵 (SafeMap) 
 > **AI 기반 동네 안전 지도 및 안전 경로 추천 서비스**
